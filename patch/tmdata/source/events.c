@@ -56,7 +56,7 @@ static EventMatchData Lab_MatchData = {
 // Event Struct
 static EventDesc Lab = {
     // Event Name
-    .eventName = "Training Lab\n",
+    .eventName = "poopoo\n",
     .eventDescription = "Free practice with\ncomplete control.\n",
     .eventTutorial = "",
     .eventFile = "EvLab",
